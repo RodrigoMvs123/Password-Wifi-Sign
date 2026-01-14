@@ -5,8 +5,7 @@ const getApiKey = () => {
   if (typeof process !== 'undefined' && process.env && process.env.API_KEY) {
     return process.env.API_KEY;
   }
-  // Fallback for user provided key in case process.env fails
-  return "AIzaSyA1afsPR2ZA9bGdhZlf10ZWao5Yc_I99hY"; 
+  return "";
 };
 
 const ai = new GoogleGenAI({ apiKey: getApiKey() });
