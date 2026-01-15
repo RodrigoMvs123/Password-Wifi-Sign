@@ -3,7 +3,7 @@
 A modern e-commerce platform allowing customers to design and purchase custom cloud-shaped WiFi sign plates. The application features a conversational UI and integrates with Google's Gemini 2.5 Flash AI to generate creative, business-themed WiFi passwords.
 
 Project Preview
-(https://rodrigomvs123.github.io/Password-Wifi-Sign/)
+(https://password-wifi-sign.vercel.app/)
 
 ## 🚀 Features
 
